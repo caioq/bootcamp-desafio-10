@@ -17,12 +17,20 @@
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
     },
     {
-      "id": 3,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png",
       "name": "A la Camarón",
+      "price": "25.95",
       "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
-      "price": "25.90",
       "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+      "id": 3
+    },
+    {
+      "image": "https://www.svicente.com.br/public/media/receitas/43-1498476263-sv_job_1057_17_imagem_site_460x430px.jpg",
+      "name": "Macarrão Italiano",
+      "price": "14.60",
+      "description": "Molho de tomates inteiros",
+      "available": true,
+      "id": 4
     }
   ]
 }
